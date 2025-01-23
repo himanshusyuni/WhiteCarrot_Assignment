@@ -1,5 +1,5 @@
 import React from "react";
-import DashBoard from "./components/DashBoard";
+import DashBoard from "./components/Dashboard";
 import Login from "./components/Login";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 function App() {
